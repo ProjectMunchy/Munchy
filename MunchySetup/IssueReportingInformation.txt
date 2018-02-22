@@ -1,5 +1,5 @@
-=== MunchyÂ© === 
-MunchyÂ© is created by CaliforniumSoftware 2018Â©. Main software engineer Nikola Totev.
-For any issue reporting please e-mail Nikola Totev at californiumsoftware@gmail.com.
+=== Munchy© === 
+Munchy© is created by CaliforniumSoftware 2018©. Main software engineer Nikola Totev.
+For any issue reporting please e-mail Nikola Totev at nikola.r.totev@gmail.com.
 
-Thank you for participating in the first test of MunchyÂ©.
+Thank you for participating in the first test of Munchy©.
